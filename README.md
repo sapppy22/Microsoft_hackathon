@@ -1,5 +1,5 @@
 # Microsoft_hackathon
-Codes and other stuff for the weather app designed for Microsoft Hackathoner.
+Codes and other stuff for the weather app designed for Microsoft Hackathon.
 
 
 # Weather Forecast
