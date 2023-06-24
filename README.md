@@ -1,5 +1,5 @@
 # Microsoft_hackathon
-Codes and other stuff for the weather app designed for Microsoft Hackathon.
+Readme file for the weather forecast tool designed for Fastest Coder Hackathon.
 
 
 # Weather Forecast
@@ -54,8 +54,7 @@ This tool utilizes the OpenWeatherMap API to fetch weather data. You need to pro
 
 Note: Ensure that you keep your API key secure and do not share it publicly.
 
-How GitHub Copilot helps:
-
+**#How GitHub Copilot helps for this CLI tool:****
 A) API Usage:
 
 1) Code snippets: Copilot can generate code snippets for making HTTP requests to APIs, including GET, POST, PUT, DELETE, and more. It can provide you with the basic structure of the request, including headers, parameters, and body, saving you time and effort.
